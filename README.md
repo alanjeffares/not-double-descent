@@ -53,7 +53,8 @@ python src/trees/eff_p_boosting.py
 ```
 
 **RFF Regression**
-For a given `<dataset>` (MNIST, CIFAR-10, or SVHN) the RFF experiements can be run using the following command.
+
+For a given `<dataset>` (MNIST, CIFAR-10, or SVHN) the RFF experiments can be run using the following command.
 ```
 python src/RFF_linear_regression/main.py --dataset <dataset>
 ```
